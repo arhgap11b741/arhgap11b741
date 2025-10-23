@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**arhgap11b741/arhgap11b741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who's obsessed with performance optimization.
 
-Here are some ideas to get you started:
+Currently working on a [Todo List App](https://github.com/yourusername/todo-list) - because even the simplest apps deserve to be lightning fast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"If it's not fast, it's not done."*
+
+---
+
+🔧 **Currently learning:** Next.js 15, Performance optimization  
+⚡ **Fun fact:** I spend more time optimizing than coding  
+🎯 **Goal:** Making the web faster, one component at a time
